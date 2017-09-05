@@ -1,5 +1,2 @@
 # JavaDeepDive
 JavaDeepDive
-
-F
-FF
