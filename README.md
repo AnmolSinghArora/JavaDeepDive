@@ -1,4 +1,2 @@
 # JavaDeepDive
 JavaDeepDive
-
-Gj
